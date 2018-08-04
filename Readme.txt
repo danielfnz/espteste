@@ -1,18 +1,23 @@
-* Como rodar o projeto;
-Utilizar IDE NetBeans;
+#Laborat√≥rio JAVA - PDV de supermercado
 
-* O banco de dados È online, ent„o È so rodar!
+#Escopo
 
-*Participantes:
+*Desenvolver um sistema para um supermercado. 
+*O supermercado tem um gerente e cinco funcion√°rios, que se revezam nas tr√™s caixas de pagamento. 
+*Cada caixa est√° equipada com uma balan√ßa, viabilizando a venda de produtos por quilo ou por unidade. 
+*O sistema deve respeitar os seguintes requisitos:
+    Fazer o controle do estoque de produtos do supermercado, permitindo que gerentes adicionem produtos ao estoque e que        funcion√°rios realizem vendas de produtos, fazendo baixa do estoque.
+    Efetuar venda de produtos, registrando em qual caixa e por qual funcion√°rio a venda foi realizada. O sistema deve informar o valor total da venda ao final.
+    Permitir o pagamento das vendas em dinheiro ou cart√£o. Caso seja em dinheiro, o sistema deve informar o valor do troco.
+    Permitir que clientes consultem o pre√ßo dos produtos em leitores espalhados pelo supermercado.
+    Permitir que o gerente emita relat√≥rios de vendas e de estoque. 
+*O relat√≥rio de vendas deve informar, para cada caixa, os valores das vendas realizadas no dia, assim como o funcion√°rio respons√°vel pela venda. 
+*O relat√≥rio de estoque deve informar as quantidades dispon√≠veis por produto no in√≠cio do dia e no final do dia.
+
+## O banco de dados √© online, ent√£o √© so dar o build!
+
+## Participantes:
 
 Daniel Leonardo de Souza Teixeira
 Diego Barbosa barros
 
-*Escopo
-
-Desenvolver um sistema para um supermercado. O supermercado tem um gerente e cinco funcion·rios, que se revezam nas trÍs caixas de pagamento. Cada caixa est· equipada com uma balanÁa, viabilizando a venda de produtos por quilo ou por unidade. O sistema deve respeitar os seguintes requisitos:
-    Fazer o controle do estoque de produtos do supermercado, permitindo que gerentes adicionem produtos ao estoque e que funcion·rios realizem vendas de produtos, fazendo baixa do estoque.
-    Efetuar venda de produtos, registrando em qual caixa e por qual funcion·rio a venda foi realizada. O sistema deve informar o valor total da venda ao final.
-    Permitir o pagamento das vendas em dinheiro ou cart„o. Caso seja em dinheiro, o sistema deve informar o valor do troco.
-    Permitir que clientes consultem o preÁo dos produtos em leitores espalhados pelo supermercado.
-    Permitir que o gerente emita relatÛrios de vendas e de estoque. O relatÛrio de vendas deve informar, para cada caixa, os valores das vendas realizadas no dia, assim como o funcion·rio respons·vel pela venda. O relatÛrio de estoque deve informar as quantidades disponÌveis por produto no inÌcio do dia e no final do dia.
